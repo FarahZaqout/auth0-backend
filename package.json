@@ -1,0 +1,28 @@
+{
+  "name": "edyo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "passport": "^0.4.0",
+    "passport-auth0": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarahZaqout/Edyo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarahZaqout/Edyo/issues"
+  },
+  "homepage": "https://github.com/FarahZaqout/Edyo#readme"
+}
